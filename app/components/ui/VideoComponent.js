@@ -9,13 +9,13 @@ export default function VideoComponent() {
                 title="GoMonkey Gladsaxe"
                 style={{
                     position: 'absolute',
-                    top: '50%',
+                    top: '-52px',
                     left: '50%',
                     minWidth: '100%',
                     minHeight: '100%',
                     width: 'auto',
                     height: 'auto',
-                    transform: 'translate(-50%, -50%)',
+                    transform: 'translate(-50%, 0)',
                     aspectRatio: '16 / 9'
                 }}
                 allowFullScreen 
